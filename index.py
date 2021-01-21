@@ -34,7 +34,7 @@ async def on_message(message):
     elif message.content == '/홀뎃':
         await message.channel.send('음... 알았어 이 종이는 잘 부서져!(구겨진 종이를 꺼냄) https://hordes.io/ 이건데..')
     elif message.content == '아함':
-        await message.channel.send('지루해? 근데 내가 일정이 있어서 이만..!(겨울늑대 클랜도우미 님이 겨울늑대 클랜도우미의 집 서버로 갔습니다.)')
+        await message.channel.send('지루해? 그럼 버튼을 누르고 스네이크 게임을 하지? 돼지 옆 파란버튼 누르면 돼. 읏차 https://discord.com/%EB%8F%BC%EC%A7%80%EC%98%86%20%ED%8C%8C%EB%9E%80%EB%B2%84%ED%8A%BC%20%EB%88%84%EB%A5%B4%EC%8B%9C%EB%A9%B4%20snek%EB%9D%BC%EB%8A%94%20%EB%B1%80%EA%B2%8C%EC%9E%84%EC%9D%B4%20%EB%82%98%EC%98%B4')
     elif message.content == '/ㅋㅋㅋ':
         await message.channel.send('으아악')
     elif message.content == '/ㄷㄷㄷ':
