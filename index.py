@@ -117,5 +117,5 @@ async def on_message(message):
         embed.add_field(name = '도움말은...', value = '/게임,/수정구슬,/번역기,/검색/출첵,/돈,/얼마있어,/하품,/마력충전,/지워,아함,/좋아하는 음식은?,/끝말잇기,/한번 때려봐,/잘자,/미육,/공놀이,/늑대야 ㅂ2,/욕해 등.... 아직 남았지만... 나중에 추가할게요-겨울늑대- ')
         await message.channel.send(embed = embed)
     elif message.content ==  '/난 9999조 경루 있는데 어쩔거냐'
-        await message.channel.send('최신형 차나 1조개  ')
+        await message.channel.send('최신형 차나 1조개 사 ')
 client.run(token)
